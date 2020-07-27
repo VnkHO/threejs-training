@@ -1,1 +1,2 @@
-https://vnkho.github.io/threejs-training/
+
+https://vnkho-threejs-traning.netlify.app/
